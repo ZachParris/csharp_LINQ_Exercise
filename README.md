@@ -1,5 +1,5 @@
+
 LINQ Exercise
-==============
 
 ## Set Up
 
@@ -10,3 +10,6 @@ Clone the repo and open it in Visual Studio. This solution only contains a unit 
 2. [MSDN - Lambda Expressions](https://msdn.microsoft.com/en-us/library/bb397687.aspx)
 3. [Pluralsight - LINQ Fundamentals with C# 6](https://www.pluralsight.com/courses/linq-fundamentals-csharp-6)
 4. [PluralSight - More Effective LINQ](https://www.pluralsight.com/courses/linq-more-effective)
+=======
+# csharp_LINQ_Exercise
+>>>>>>> b1dfc4af3a6db5773c788d5fbbb36372384d3313
